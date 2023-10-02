@@ -1,0 +1,13 @@
+.header {
+    background-color: rgb(11, 20, 70);
+    font-size: 5rem;
+    font-weight: 100;
+    text-align: center;
+    color: #fff;
+}
+
+.header span {
+    background-color: #fff;
+    color: rgb(11, 20, 70);
+    margin: 2rem;
+}
